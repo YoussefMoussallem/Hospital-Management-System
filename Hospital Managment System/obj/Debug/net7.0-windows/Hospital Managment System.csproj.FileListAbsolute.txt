@@ -1,0 +1,28 @@
+C:\Users\Tony\Documents\shared with usf\john\Hospital Managment System\Hospital Managment System\bin\Debug\net7.0-windows\Hospital Managment System.exe
+C:\Users\Tony\Documents\shared with usf\john\Hospital Managment System\Hospital Managment System\bin\Debug\net7.0-windows\Hospital Managment System.deps.json
+C:\Users\Tony\Documents\shared with usf\john\Hospital Managment System\Hospital Managment System\bin\Debug\net7.0-windows\Hospital Managment System.runtimeconfig.json
+C:\Users\Tony\Documents\shared with usf\john\Hospital Managment System\Hospital Managment System\bin\Debug\net7.0-windows\Hospital Managment System.dll
+C:\Users\Tony\Documents\shared with usf\john\Hospital Managment System\Hospital Managment System\bin\Debug\net7.0-windows\Hospital Managment System.pdb
+C:\Users\Tony\Documents\shared with usf\john\Hospital Managment System\Hospital Managment System\obj\Debug\net7.0-windows\Hospital_Managment_System.DoctorLogin.resources
+C:\Users\Tony\Documents\shared with usf\john\Hospital Managment System\Hospital Managment System\obj\Debug\net7.0-windows\Hospital_Managment_System.Login.resources
+C:\Users\Tony\Documents\shared with usf\john\Hospital Managment System\Hospital Managment System\obj\Debug\net7.0-windows\Hospital_Managment_System.SplashScreen.resources
+C:\Users\Tony\Documents\shared with usf\john\Hospital Managment System\Hospital Managment System\obj\Debug\net7.0-windows\Hospital Managment System.csproj.GenerateResource.cache
+C:\Users\Tony\Documents\shared with usf\john\Hospital Managment System\Hospital Managment System\obj\Debug\net7.0-windows\Hospital Managment System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tony\Documents\shared with usf\john\Hospital Managment System\Hospital Managment System\obj\Debug\net7.0-windows\Hospital Managment System.AssemblyInfoInputs.cache
+C:\Users\Tony\Documents\shared with usf\john\Hospital Managment System\Hospital Managment System\obj\Debug\net7.0-windows\Hospital Managment System.AssemblyInfo.cs
+C:\Users\Tony\Documents\shared with usf\john\Hospital Managment System\Hospital Managment System\obj\Debug\net7.0-windows\Hospital Managment System.csproj.CoreCompileInputs.cache
+C:\Users\Tony\Documents\shared with usf\john\Hospital Managment System\Hospital Managment System\obj\Debug\net7.0-windows\Hospital Managment System.dll
+C:\Users\Tony\Documents\shared with usf\john\Hospital Managment System\Hospital Managment System\obj\Debug\net7.0-windows\refint\Hospital Managment System.dll
+C:\Users\Tony\Documents\shared with usf\john\Hospital Managment System\Hospital Managment System\obj\Debug\net7.0-windows\Hospital Managment System.pdb
+C:\Users\Tony\Documents\shared with usf\john\Hospital Managment System\Hospital Managment System\obj\Debug\net7.0-windows\Hospital Managment System.genruntimeconfig.cache
+C:\Users\Tony\Documents\shared with usf\john\Hospital Managment System\Hospital Managment System\obj\Debug\net7.0-windows\ref\Hospital Managment System.dll
+C:\Users\Tony\Documents\shared with usf\john\Hospital Managment System\Hospital Managment System\obj\Debug\net7.0-windows\Hospital_Managment_System.CRUDDoctor.resources
+C:\Users\Tony\Documents\shared with usf\john\Hospital Managment System\Hospital Managment System\obj\Debug\net7.0-windows\Hospital_Managment_System.CrudEmployee.resources
+C:\Users\Tony\Documents\shared with usf\john\Hospital Managment System\Hospital Managment System\obj\Debug\net7.0-windows\Hospital_Managment_System.AdminLogin.resources
+C:\Users\Tony\Documents\shared with usf\john\Hospital Managment System\Hospital Managment System\obj\Debug\net7.0-windows\Hospital_Managment_System.AdminHomeControl.resources
+C:\Users\Tony\Documents\shared with usf\john\Hospital Managment System\Hospital Managment System\obj\Debug\net7.0-windows\Hospital_Managment_System.Properties.Resources.resources
+C:\Users\Tony\Documents\shared with usf\john\Hospital Managment System\Hospital Managment System\obj\Debug\net7.0-windows\Hospital_Managment_System.EmployeeHomeControl.resources
+C:\Users\Tony\Documents\shared with usf\john\Hospital Managment System\Hospital Managment System\obj\Debug\net7.0-windows\Hospital_Managment_System.DoctorHomeControl.resources
+C:\Users\Tony\Documents\shared with usf\john\Hospital Managment System\Hospital Managment System\obj\Debug\net7.0-windows\Hospital_Managment_System.CrudPatient.resources
+C:\Users\Tony\Documents\shared with usf\john\Hospital Managment System\Hospital Managment System\obj\Debug\net7.0-windows\Hospital_Managment_System.CrudAppointment.resources
+C:\Users\Tony\Documents\shared with usf\john\Hospital Managment System\Hospital Managment System\obj\Debug\net7.0-windows\Hospital_Managment_System.CrudRoom.resources

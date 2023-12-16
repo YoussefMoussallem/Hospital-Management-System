@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Hospital_Managment_System.Properties.Resources" Collapsed="true">
+    <Position X="21" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Managment_System.AdminHomeControl" Collapsed="true">
+    <Position X="21" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIhAAAiAAABAIAACAQAACAMw7AAAAwHALAcD/AQA=</HashCode>
+      <FileName>AdminHomeControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Managment_System.Administrator">
+    <Position X="4.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAEAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Administrator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Managment_System.AdminLogin" Collapsed="true">
+    <Position X="22.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACIAAQAACAAABAAAACAAAQCEAAIAAAAAEAAAYIAAAA=</HashCode>
+      <FileName>AdminLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Managment_System.loginAdmin">
+    <Position X="4.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>AdminLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Managment_System.Appointment">
+    <Position X="0.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAQCAAAAAAAAAAAAQBAgAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Appointment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Managment_System.Bill">
+    <Position X="0.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAIAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Managment_System.CrudAppointment" Collapsed="true">
+    <Position X="23.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAiAAABAiAACAAAASAAgQAAAAACAAAIAAAAA=</HashCode>
+      <FileName>CrudAppointment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Managment_System.CRUDDoctor" Collapsed="true">
+    <Position X="21" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wQABAAAiAiACABAiAACAhBACAAAUAACgACAAAhAAACA=</HashCode>
+      <FileName>CRUDDoctor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Managment_System.CrudEmployee" Collapsed="true">
+    <Position X="22.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAEAAQAAiAAABAkAACAhBACAAIUAACkACAAAhAAACA=</HashCode>
+      <FileName>CrudEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Managment_System.CrudPatient" Collapsed="true">
+    <Position X="24.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAFAAAAAiACABAgAACAhAACAAAUAACgACAAAAAAACA=</HashCode>
+      <FileName>CrudPatient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Managment_System.CrudRoom" Collapsed="true">
+    <Position X="22" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAABAiAAABAAgACMAAASAAAQAAAEACAAAAIAAAA=</HashCode>
+      <FileName>CrudRoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Managment_System.DeluxeRoom">
+    <Position X="13.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAIAAAAAAAAAAEAAAAgA=</HashCode>
+      <FileName>DeluxeRoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Managment_System.Doctor">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAABAEAAAAAAAAAAABggAAAEAAgCAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Doctor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Managment_System.DoctorHomeControl" Collapsed="true">
+    <Position X="23.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAQAAiAAABAAAACYAAACAIg6ACgAQHAPAcBGAAA=</HashCode>
+      <FileName>DoctorHomeControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Managment_System.DoctorLogin" Collapsed="true">
+    <Position X="21" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACIAAQAACAAABAAAACAAAQCEAAIAAAAAEAAAYIAAAA=</HashCode>
+      <FileName>DoctorLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Managment_System.loginDoctor">
+    <Position X="7" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>DoctorLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Managment_System.Employee">
+    <Position X="6.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAEAAAAAAAAAEAAAgAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Managment_System.EmployeeHomeControl" Collapsed="true">
+    <Position X="22.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIhQAAiAAABABAACQQAACAMg7AAkAwHALAcD/AQA=</HashCode>
+      <FileName>EmployeeHomeControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Managment_System.Hospital">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAgEACAYAAEBQEAAJIAAAAACGECARQAEBAAIIAAAA=</HashCode>
+      <FileName>Hospital.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Managment_System.Login" Collapsed="true">
+    <Position X="22" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACIAAQAACAAABAAAACAAAQCEAAIAAAAAEAAAYIAAAA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Managment_System.loginEmployee">
+    <Position X="2.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Managment_System.NormalRoom">
+    <Position X="11.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAEAAAAgA=</HashCode>
+      <FileName>NormalRoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Managment_System.Patient">
+    <Position X="8.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAEAAAAAAAAAAAAAgAAAAAAAAAABAAAAAAAAAAE=</HashCode>
+      <FileName>Patient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Managment_System.Person">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAEAACAAgACAAAAAgAQAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Managment_System.PrivateRoom">
+    <Position X="10" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAEAAAAgA=</HashCode>
+      <FileName>PrivateRoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Managment_System.Program" Collapsed="true">
+    <Position X="23.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Managment_System.Room">
+    <Position X="13.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RACAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAIEAAAAgA=</HashCode>
+      <FileName>Room.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Managment_System.SharedRoom">
+    <Position X="15.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAEAAAAgA=</HashCode>
+      <FileName>SharedRoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Managment_System.SoldierRoom">
+    <Position X="17.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAEAAAAgA=</HashCode>
+      <FileName>SoldierRoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Managment_System.SplashScreen" Collapsed="true">
+    <Position X="22.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAAACiAABAAAACAAAACAAAAIAAAAAAAAQAAAAA=</HashCode>
+      <FileName>SplashScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Managment_System.UserLogin">
+    <Position X="4.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAgAAEAA=</HashCode>
+      <FileName>UserLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
